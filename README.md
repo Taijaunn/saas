@@ -20,3 +20,9 @@ A software solution that aims to simplify content curation for Instagram theme p
   ```shell
   cd backend && sh entrypoint.sh
   ```
+  
+### Run The Frontend Locally:
+- Run The Frontend UI:
+  ```shell
+  cd frontend && yarn start
+  ```
